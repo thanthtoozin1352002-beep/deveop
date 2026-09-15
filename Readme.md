@@ -9,3 +9,4 @@ Good morning
 
 
 
+![CI Status](https://github.com/thanthtoozin1352002-beep/deveop/actions/workflows/main.yml/badge.svg)
