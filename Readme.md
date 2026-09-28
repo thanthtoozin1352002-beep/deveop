@@ -9,4 +9,5 @@ Good morning
 
 [![Releases](https://img.shields.io/github/release/thanthtoozin1352002-beep/deveop/all.svg?style=flat-square)](https://github.com/thanthtoozin1352002-beep/deveop/releases)
 
-
+# DevOps
+![CI Status](https://github.com/thanthtoozin1352002-beep/deveop/actions/workflows/main.yml/badge.svg)
