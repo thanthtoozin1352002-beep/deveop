@@ -1,6 +1,7 @@
 package com.napier.sem;
 
 public class Employee {
+
     /**
      * Employee number
      */

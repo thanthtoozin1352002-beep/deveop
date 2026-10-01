@@ -1,17 +1,12 @@
 package com.napier.sem;
 
-
 import java.sql.*;
 
-public class App {
-    /**
-     * Connection to MySQL database.
-     */
+public class App
+{
+
     private Connection con = null;
 
-    /**
-     * Connect to the MySQL database.
-     */
     public void connect()
     {
         try
@@ -100,7 +95,6 @@ public class App {
             System.out.println("Failed to get employee details");
             return null;
         }
-
     }
     public void displayEmployee(Employee emp)
     {
@@ -131,4 +125,5 @@ public class App {
         // Disconnect from database
         a.disconnect();
     }
+
 }
